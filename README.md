@@ -5,3 +5,4 @@ En este repositorio se junta la información extraida de distintas fuentes para 
 ## Recursos utilizados
 
 * Comunas por región: [juanbrujo/comunas-regiones.json (GitHubGist)](https://gist.github.com/juanbrujo/0fd2f4d126b3ce5a95a7dd1f28b3d8dd)
+* Diputados y comunas por distrito para cada región: [¿Qué diputado me representa? | Cámara de Diputados](https://www.camara.cl/camara/diputados.aspx)
