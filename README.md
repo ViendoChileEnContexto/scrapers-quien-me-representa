@@ -8,3 +8,4 @@ En este repositorio se junta la información extraida de distintas fuentes para 
 * Diputados y comunas por distrito para cada región: [¿Qué diputado me representa? | Cámara de Diputados](https://www.camara.cl/camara/diputados.aspx)
 * Senadores por circunscripción: [Mapa circunscripciones | Senado](https://www.senado.cl/appsenado/templates/senadores/regiones_2018.html)
 * Concejales por comuna: [Concejales de Chile](https://www.cdch.cl/concejales-de-chile.aspx)
+* Autoridades por comuna: [Ficha comunal | SiNIM](http://datos.sinim.gov.cl/ficha_comunal.php)
