@@ -10,3 +10,8 @@ En este repositorio se junta la información extraida de distintas fuentes para 
 * Concejales por comuna: [Concejales de Chile](https://www.cdch.cl/concejales-de-chile.aspx)
 * Autoridades por comuna: [Ficha comunal | SiNIM](http://datos.sinim.gov.cl/ficha_comunal.php)
 * División político administrativa de Chile: [juanecl/comunas.json (GitHubGist)](https://gist.github.com/juanecl/bf17bf5a68d6470b38a8488c95f0f4b9)
+
+## Organización de archivos
+
+Los scripts tendrán su propia carpeta, mientras que los archivos con los datos se conservarán en archivos *.json
+
