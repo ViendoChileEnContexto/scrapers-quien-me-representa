@@ -1,0 +1,1687 @@
+{
+    "I REGION DE TARAPACÁ": [
+        {
+            "comunas": [
+                "Alto Hospicio",
+                "Camiña",
+                "Colchane",
+                "Huara",
+                "Iquique",
+                "Pica",
+                "Pozo Almonte"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Ramón Galleguillos",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1032",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1032",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Hugo Gutiérrez",
+                    "partido": "Partido Comunista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=937",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs937",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=1"
+                },
+                {
+                    "nombre": "Renzo Trisotti",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1003",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1003",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                }
+            ],
+            "distrito": "2",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=1"
+        }
+    ],
+    "II REGION DE ANTOFAGASTA": [
+        {
+            "comunas": [
+                "Antofagasta",
+                "Calama",
+                "María Elena",
+                "Mejillones",
+                "Ollagüe",
+                "San Pedro de Atacama",
+                "Sierra Gorda",
+                "Taltal",
+                "Tocopilla"
+            ],
+            "diputados": [
+                {
+                    "nombre": "José Miguel Castro",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1019",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1019",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Marcela Hernando",
+                    "partido": "Partido Radical de Chile",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=986",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs986",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=6"
+                },
+                {
+                    "nombre": "Paulina Núñez",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=994",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs994",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Catalina Pérez",
+                    "partido": "Revolución Democrática",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1063",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1063",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=18"
+                },
+                {
+                    "nombre": "Esteban Velásquez",
+                    "partido": "Federación Regionalista Verde Social",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1083",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1083",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=22"
+                }
+            ],
+            "distrito": "3",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=2"
+        }
+    ],
+    "III REGION DE ATACAMA": [
+        {
+            "comunas": [
+                "Alto del Carmen",
+                "Caldera",
+                "Chañaral",
+                "Copiapó",
+                "Diego de Almagro",
+                "Freirina",
+                "Huasco",
+                "Tierra Amarilla",
+                "Vallenar"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Daniella Cicardini",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=975",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs975",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Sofía Cid",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1022",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1022",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Jaime Mulet",
+                    "partido": "Federación Regionalista Verde Social",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=872",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs872",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=22"
+                },
+                {
+                    "nombre": "Nicolás Noman",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1055",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1055",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Juan Santana",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1073",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1073",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                }
+            ],
+            "distrito": "4",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=3"
+        }
+    ],
+    "IV REGION DE COQUIMBO": [
+        {
+            "comunas": [
+                "Andacollo",
+                "Canela",
+                "Combarbalá",
+                "Coquimbo",
+                "Illapel",
+                "La Higuera",
+                "La Serena",
+                "Los Vilos",
+                "Monte Patria",
+                "Ovalle",
+                "Paiguano",
+                "Punitaqui",
+                "Río Hurtado",
+                "Salamanca",
+                "Vicuña"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Francisco Eguiguren",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1029",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1029",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Juan Fuenzalida",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1031",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1031",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Sergio Gahona",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=985",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs985",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Daniel Núñez",
+                    "partido": "Partido Comunista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=993",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs993",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=1"
+                },
+                {
+                    "nombre": "Raúl Saldívar",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1001",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1001",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Pedro Velásquez",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=961",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs961",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Matías Walker",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=963",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs963",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                }
+            ],
+            "distrito": "5",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=4"
+        }
+    ],
+    "IX REGION DE LA ARAUCANÍA": [
+        {
+            "comunas": [
+                "Angol",
+                "Collipulli",
+                "Curacautín",
+                "Ercilla",
+                "Galvarino",
+                "Lautaro",
+                "Lonquimay",
+                "Los Sauces",
+                "Lumaco",
+                "Melipeuco",
+                "Perquenco",
+                "Purén",
+                "Renaico",
+                "Traiguén",
+                "Victoria",
+                "Vilcún"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Andrea Parra",
+                    "partido": "Partido Por la Democracia",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1061",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1061",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=5"
+                },
+                {
+                    "nombre": "Diego Paulsen",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=995",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs995",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Jorge Rathgeb",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=999",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs999",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Mario Venegas",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=913",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs913",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                }
+            ],
+            "distrito": "22",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=9"
+        },
+        {
+            "comunas": [
+                "Carahue",
+                "Cholchol",
+                "Cunco",
+                "Curarrehue",
+                "Freire",
+                "Gorbea",
+                "Loncoche",
+                "Nueva Imperial",
+                "Padre Las Casas",
+                "Pitrufquén",
+                "Pucón",
+                "Saavedra",
+                "Temuco",
+                "Teodoro Schmidt",
+                "Toltén",
+                "Villarrica"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Sebastián Álvarez",
+                    "partido": "Evolución Política",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1010",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1010",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=19"
+                },
+                {
+                    "nombre": "Ricardo Celis",
+                    "partido": "Partido Por la Democracia",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1020",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1020",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=5"
+                },
+                {
+                    "nombre": "René Manuel García",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=843",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs843",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Miguel Mellado",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1050",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1050",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Fernando Meza",
+                    "partido": "Partido Radical de Chile",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=866",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs866",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=6"
+                },
+                {
+                    "nombre": "Andrés Molina",
+                    "partido": "Evolución Política",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1052",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1052",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=19"
+                },
+                {
+                    "nombre": "René Saffirio",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=950",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs950",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                }
+            ],
+            "distrito": "23",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=9"
+        }
+    ],
+    "RM REGION METROPOLITANA DE SANTIAGO": [
+        {
+            "comunas": [
+                "Cerrillos",
+                "Colina",
+                "Estación Central",
+                "Lampa",
+                "Maipú",
+                "Pudahuel",
+                "Quilicura",
+                "Tiltil"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Pepe Auth",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=925",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs925",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Mario Desbordes",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1026",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1026",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Carmen Hertz",
+                    "partido": "Partido Comunista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1035",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1035",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=1"
+                },
+                {
+                    "nombre": "Joaquín Lavín",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=989",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs989",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Patricio Melero",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=865",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs865",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Claudia Mix",
+                    "partido": "Partido Poder Ciudadano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1051",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1051",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=26"
+                },
+                {
+                    "nombre": "Gabriel Silber",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=898",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs898",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Pablo Vidal",
+                    "partido": "Revolución Democrática",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1085",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1085",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=18"
+                }
+            ],
+            "distrito": "8",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=13"
+        },
+        {
+            "comunas": [
+                "Cerro Navia",
+                "Conchalí",
+                "Huechuraba",
+                "Independencia",
+                "Lo Prado",
+                "Quinta Normal",
+                "Recoleta",
+                "Renca"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Boris Barrera",
+                    "partido": "Partido Comunista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1012",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1012",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=1"
+                },
+                {
+                    "nombre": "Karol Cariola",
+                    "partido": "Partido Comunista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=973",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs973",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=1"
+                },
+                {
+                    "nombre": "Jorge Durán",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1027",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1027",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Cristina Girardi",
+                    "partido": "Partido Por la Democracia",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=936",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs936",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=5"
+                },
+                {
+                    "nombre": "Sebastián Keitel",
+                    "partido": "Evolución Política",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1042",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1042",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=19"
+                },
+                {
+                    "nombre": "Erika Olivera",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1057",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1057",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Maite Orsini",
+                    "partido": "Revolución Democrática",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1058",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1058",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=18"
+                }
+            ],
+            "distrito": "9",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=13"
+        },
+        {
+            "comunas": [
+                "La Granja",
+                "Macul",
+                "Providencia",
+                "San Joaquín",
+                "Santiago",
+                "Ñuñoa"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Jorge Alessandri",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1009",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1009",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Natalia Castillo",
+                    "partido": "Revolución Democrática",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1018",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1018",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=18"
+                },
+                {
+                    "nombre": "Luciano Cruz-Coke",
+                    "partido": "Evolución Política",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1024",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1024",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=19"
+                },
+                {
+                    "nombre": "Maya Fernández",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=981",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs981",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Giorgio Jackson",
+                    "partido": "Revolución Democrática",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=987",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs987",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=18"
+                },
+                {
+                    "nombre": "Marcela Sabat",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=949",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs949",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Sebastián Torrealba",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1079",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1079",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Gonzalo Winter",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1086",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1086",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                }
+            ],
+            "distrito": "10",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=13"
+        },
+        {
+            "comunas": [
+                "La Reina",
+                "Las Condes",
+                "Lo Barnechea",
+                "Peñalolén",
+                "Vitacura"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Catalina Del Real",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1025",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1025",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Gonzalo Fuenzalida",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=984",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs984",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Tomás Hirsch",
+                    "partido": "Partido Humanista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1036",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1036",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=20"
+                },
+                {
+                    "nombre": "Karin Luck",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1047",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1047",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Guillermo Ramírez",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1065",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1065",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Francisco Undurraga",
+                    "partido": "Evolución Política",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1081",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1081",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=19"
+                }
+            ],
+            "distrito": "11",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=13"
+        },
+        {
+            "comunas": [
+                "La Florida",
+                "La Pintana",
+                "Pirque",
+                "Puente Alto",
+                "San José de Maipo"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Álvaro Carter",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1017",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1017",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Miguel Crispi",
+                    "partido": "Revolución Democrática",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1023",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1023",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=18"
+                },
+                {
+                    "nombre": "Pamela Jiles",
+                    "partido": "Partido Humanista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1039",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1039",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=20"
+                },
+                {
+                    "nombre": "Amaro Labra",
+                    "partido": "Partido Comunista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1043",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1043",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=1"
+                },
+                {
+                    "nombre": "Ximena Ossandón",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1059",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1059",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Leopoldo Pérez",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=946",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs946",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Camila Vallejo",
+                    "partido": "Partido Comunista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1006",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1006",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=1"
+                }
+            ],
+            "distrito": "12",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=13"
+        },
+        {
+            "comunas": [
+                "El Bosque",
+                "La Cisterna",
+                "Lo Espejo",
+                "Pedro Aguirre Cerda",
+                "San Miguel",
+                "San Ramón"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Eduardo Durán",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1028",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1028",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Tucapel Jiménez",
+                    "partido": "Partido Por la Democracia",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=856",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs856",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=5"
+                },
+                {
+                    "nombre": "Cristhian Moreira",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1053",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1053",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Guillermo Teillier",
+                    "partido": "Partido Comunista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=956",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs956",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=1"
+                },
+                {
+                    "nombre": "Gael Yeomans",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1087",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1087",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                }
+            ],
+            "distrito": "13",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=13"
+        },
+        {
+            "comunas": [
+                "Alhué",
+                "Buin",
+                "Calera de Tango",
+                "Curacaví",
+                "El Monte",
+                "Isla de Maipo",
+                "María Pinto",
+                "Melipilla",
+                "Padre Hurtado",
+                "Paine",
+                "Peñaflor",
+                "San Bernardo",
+                "San Pedro",
+                "Talagante"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Jaime Bellolio",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=970",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs970",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Juan Antonio Coloma",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=976",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs976",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Renato Garín",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1033",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1033",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Raúl Leiva",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1044",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1044",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Marisela Santibáñez",
+                    "partido": "Partido Comunista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1074",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1074",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=1"
+                },
+                {
+                    "nombre": "Leonardo Soto",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1002",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1002",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                }
+            ],
+            "distrito": "14",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=13"
+        }
+    ],
+    "V REGION DE VALPARAÍSO": [
+        {
+            "comunas": [
+                "Cabildo",
+                "Calera",
+                "Calle Larga",
+                "Catemu",
+                "Hijuelas",
+                "La Cruz",
+                "La Ligua",
+                "Limache",
+                "Llay Llay",
+                "Los Andes",
+                "Nogales",
+                "Olmué",
+                "Panquehue",
+                "Papudo",
+                "Petorca",
+                "Puchuncaví",
+                "Putaendo",
+                "Quillota",
+                "Quilpué",
+                "Quintero",
+                "Rinconada",
+                "San Esteban",
+                "San Felipe",
+                "Santa María",
+                "Villa Alemana",
+                "Zapallar"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Camila Flores",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1030",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1030",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Diego Ibáñez",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1037",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1037",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Pablo Kast",
+                    "partido": "Evolución Política",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1041",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1041",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=19"
+                },
+                {
+                    "nombre": "Andrés Longton",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1046",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1046",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Carolina Marzán",
+                    "partido": "Partido Por la Democracia",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1048",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1048",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=5"
+                },
+                {
+                    "nombre": "Luis Pardo",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1060",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1060",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Marcelo Schilling",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=920",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs920",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Daniel Verdessi",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1084",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1084",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                }
+            ],
+            "distrito": "6",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=5"
+        },
+        {
+            "comunas": [
+                "Algarrobo",
+                "Cartagena",
+                "Casablanca",
+                "Concón",
+                "El Quisco",
+                "El Tabo",
+                "Isla de Pascua",
+                "Juan Fernández",
+                "San Antonio",
+                "Santo Domingo",
+                "Valparaíso",
+                "Viña del Mar"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Jorge Brito",
+                    "partido": "Revolución Democrática",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1015",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1015",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=18"
+                },
+                {
+                    "nombre": "Andrés Celis",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1021",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1021",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Marcelo Díaz",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=827",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs827",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Rodrigo González",
+                    "partido": "Partido Por la Democracia",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=848",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs848",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=5"
+                },
+                {
+                    "nombre": "María José Hoffmann",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=940",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs940",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Camila Rojas",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1068",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1068",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Víctor Torres",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=957",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs957",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Osvaldo Urrutia",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1005",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1005",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                }
+            ],
+            "distrito": "7",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=5"
+        }
+    ],
+    "VI REGION DEL LIBERTADOR GENERAL BERNARDO O' HIGGINS": [
+        {
+            "comunas": [
+                "Codegua",
+                "Coinco",
+                "Coltauco",
+                "Doñihue",
+                "Graneros",
+                "Machalí",
+                "Malloa",
+                "Mostazal",
+                "Olivar",
+                "Quinta de Tilcoco",
+                "Rancagua",
+                "Rengo",
+                "Requínoa"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Juan Luis Castro",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=931",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs931",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Issa Kort",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=967",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs967",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Javier Macaya",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=942",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs942",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Diego Schalper",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1075",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1075",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Raúl Soto",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1077",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1077",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                }
+            ],
+            "distrito": "15",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=6"
+        },
+        {
+            "comunas": [
+                "Chimbarongo",
+                "Chépica",
+                "La Estrella",
+                "Las Cabras",
+                "Litueche",
+                "Lolol",
+                "Marchihue",
+                "Nancagua",
+                "Navidad",
+                "Palmilla",
+                "Paredones",
+                "Peralillo",
+                "Peumo",
+                "Pichidegua",
+                "Pichilemu",
+                "Placilla",
+                "Pumanque",
+                "San Fernando",
+                "San Vicente",
+                "Santa Cruz"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Ramón Barros",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=811",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs811",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Cosme Mellado",
+                    "partido": "Partido Radical de Chile",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1049",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1049",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=6"
+                },
+                {
+                    "nombre": "Alejandra Sepúlveda",
+                    "partido": "Federación Regionalista Verde Social",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=897",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs897",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=22"
+                },
+                {
+                    "nombre": "Virginia Troncoso",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1080",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1080",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                }
+            ],
+            "distrito": "16",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=6"
+        }
+    ],
+    "VII REGION DEL MAULE": [
+        {
+            "comunas": [
+                "Constitución",
+                "Curepto",
+                "Curicó",
+                "Empedrado",
+                "Hualañé",
+                "Licantén",
+                "Maule",
+                "Molina",
+                "Pelarco",
+                "Pencahue",
+                "Rauco",
+                "Romeral",
+                "Río Claro",
+                "Sagrada Familia",
+                "San Clemente",
+                "San Rafael",
+                "Talca",
+                "Teno",
+                "Vichuquén"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Florcita Alarcón",
+                    "partido": "Partido Humanista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1008",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1008",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=20"
+                },
+                {
+                    "nombre": "Pedro Pablo Alvarez-Salamanca",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=923",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs923",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Pablo Lorenzini",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=862",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs862",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Celso Morales",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=945",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs945",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Pablo Prieto",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1064",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1064",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Hugo Rey",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1067",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1067",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Alexis Sepúlveda",
+                    "partido": "Partido Radical de Chile",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1076",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1076",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=6"
+                }
+            ],
+            "distrito": "17",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=7"
+        },
+        {
+            "comunas": [
+                "Cauquenes",
+                "Chanco",
+                "Colbún",
+                "Linares",
+                "Longaví",
+                "Parral",
+                "Pelluhue",
+                "Retiro",
+                "San Javier",
+                "Villa Alegre",
+                "Yerbas Buenas"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Manuel Matta",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=660",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs660",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Jaime Naranjo",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=74",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs74",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Rolando Rentería",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1066",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1066",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Ignacio Urrutia",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=908",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs908",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                }
+            ],
+            "distrito": "18",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=7"
+        }
+    ],
+    "VIII REGION DEL BÍO BÍO": [
+        {
+            "comunas": [
+                "Bulnes",
+                "Cabrero",
+                "Chillán",
+                "Chillán Viejo",
+                "Cobquecura",
+                "Coelemu",
+                "Coihueco",
+                "El Carmen",
+                "Ninhue",
+                "Pemuco",
+                "Pinto",
+                "Portezuelo",
+                "Quillón",
+                "Quirihue",
+                "Ránquil",
+                "San Carlos",
+                "San Fabián",
+                "San Ignacio",
+                "San Nicolás",
+                "Treguaco",
+                "Yumbel",
+                "Yungay",
+                "Ñiquén"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Loreto Carvajal",
+                    "partido": "Partido Por la Democracia",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=974",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs974",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=5"
+                },
+                {
+                    "nombre": "Carlos Abel Jarpa",
+                    "partido": "Partido Radical de Chile",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=855",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs855",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=6"
+                },
+                {
+                    "nombre": "Jorge Sabag",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=893",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs893",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Gustavo Sanhueza",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1072",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1072",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Frank Sauerbaum",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=953",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs953",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                }
+            ],
+            "distrito": "19",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=8"
+        },
+        {
+            "comunas": [
+                "Chiguayante",
+                "Concepción",
+                "Coronel",
+                "Florida",
+                "Hualpén",
+                "Hualqui",
+                "Penco",
+                "San Pedro de la Paz",
+                "Santa Juana",
+                "Talcahuano",
+                "Tomé"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Sergio Bobadilla",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=815",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs815",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Félix González",
+                    "partido": "Partido Ecologista Verde",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1034",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1034",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=25"
+                },
+                {
+                    "nombre": "Francesca Muñoz",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1054",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1054",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "José Miguel Ortiz",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=879",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs879",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Leonidas Romero",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1069",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1069",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Gastón Saavedra",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1071",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1071",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Jaime Tohá",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1078",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1078",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Enrique Van Rysselberghe",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=959",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs959",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                }
+            ],
+            "distrito": "20",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=8"
+        },
+        {
+            "comunas": [
+                "Alto Biobío",
+                "Antuco",
+                "Arauco",
+                "Cañete",
+                "Contulmo",
+                "Curanilahue",
+                "Laja",
+                "Lebu",
+                "Los Álamos",
+                "Los Ángeles",
+                "Lota",
+                "Mulchén",
+                "Nacimiento",
+                "Negrete",
+                "Quilaco",
+                "Quilleco",
+                "San Rosendo",
+                "Santa Bárbara",
+                "Tirúa",
+                "Tucapel"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Manuel Monsalve",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=869",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs869",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Iván Norambuena",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=875",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs875",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "José Pérez",
+                    "partido": "Partido Radical de Chile",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=885",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs885",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=6"
+                },
+                {
+                    "nombre": "Joanna Pérez",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1062",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1062",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Cristóbal Urruticoechea",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1082",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1082",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                }
+            ],
+            "distrito": "21",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=8"
+        }
+    ],
+    "X REGION DE LOS LAGOS": [
+        {
+            "comunas": [
+                "Fresia",
+                "Frutillar",
+                "Llanquihue",
+                "Los Muermos",
+                "Osorno",
+                "Puerto Octay",
+                "Puerto Varas",
+                "Purranque",
+                "Puyehue",
+                "Río Negro",
+                "San Juan de la Costa",
+                "San Pablo"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Fidel Espinoza",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=837",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs837",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Javier Hernández",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=850",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs850",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Harry Jürgensen",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1040",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1040",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Emilia Nuyado",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1056",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1056",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                }
+            ],
+            "distrito": "25",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=10"
+        },
+        {
+            "comunas": [
+                "Ancud",
+                "Calbuco",
+                "Castro",
+                "Chaitén",
+                "Chonchi",
+                "Cochamó",
+                "Curaco de Vélez",
+                "Dalcahue",
+                "Futaleufú",
+                "Hualaihué",
+                "Maullín",
+                "Palena",
+                "Puerto Montt",
+                "Puqueldón",
+                "Queilén",
+                "Quellón",
+                "Quemchi",
+                "Quinchao"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Jenny Álvarez",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=968",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs968",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Gabriel Ascencio",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=810",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs810",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Alejandro Bernales",
+                    "partido": "Partido Liberal de Chile",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1013",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1013",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=23"
+                },
+                {
+                    "nombre": "Carlos Kuschel",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=172",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs172",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Alejandro Santana",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=952",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs952",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                }
+            ],
+            "distrito": "26",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=10"
+        }
+    ],
+    "XI REGION DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO": [
+        {
+            "comunas": [
+                "Aysén",
+                "Chile Chico",
+                "Cisnes",
+                "Cochrane",
+                "Coyhaique",
+                "Guaitecas",
+                "Lago Verde",
+                "O'Higgins",
+                "Río Ibáñez",
+                "Tortel"
+            ],
+            "diputados": [
+                {
+                    "nombre": "René Alinco",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=803",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs803",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Miguel Ángel Calisto",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1016",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1016",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Aracely Leuquén",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1045",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1045",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                }
+            ],
+            "distrito": "27",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=11"
+        }
+    ],
+    "XII REGION DE MAGALLANES Y DE LA ANTÁRTICA CHILENA": [
+        {
+            "comunas": [
+                "Antártica",
+                "Cabo de Hornos",
+                "Laguna Blanca",
+                "Natales",
+                "Porvenir",
+                "Primavera",
+                "Punta Arenas",
+                "Río Verde",
+                "San Gregorio",
+                "Timaukel",
+                "Torres del Paine"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Sandra Amar",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1011",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1011",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Karim Bianchi",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1014",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1014",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Gabriel Boric",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=972",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs972",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                }
+            ],
+            "distrito": "28",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=12"
+        }
+    ],
+    "XIV REGION DE LOS RÍOS": [
+        {
+            "comunas": [
+                "Corral",
+                "Futrono",
+                "La Unión",
+                "Lago Ranco",
+                "Lanco",
+                "Los Lagos",
+                "Mariquina",
+                "Máfil",
+                "Paillaco",
+                "Panguipulli",
+                "Río Bueno",
+                "Valdivia"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Bernardo Berger",
+                    "partido": "Renovación Nacional",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=971",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs971",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=8"
+                },
+                {
+                    "nombre": "Iván Flores",
+                    "partido": "Partido Demócrata Cristiano",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=982",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs982",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=4"
+                },
+                {
+                    "nombre": "Marcos Ilabaca",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1038",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1038",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                },
+                {
+                    "nombre": "Patricio Rosas",
+                    "partido": "Independientes",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1070",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1070",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=3"
+                },
+                {
+                    "nombre": "Gastón Von Mühlenbrock",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=917",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs917",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                }
+            ],
+            "distrito": "24",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=14"
+        }
+    ],
+    "XV REGION DE ARICA Y PARINACOTA": [
+        {
+            "comunas": [
+                "Arica",
+                "Camarones",
+                "General Lagos",
+                "Putre"
+            ],
+            "diputados": [
+                {
+                    "nombre": "Nino Baltolu",
+                    "partido": "Unión Demócrata Independiente",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=926",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs926",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=10"
+                },
+                {
+                    "nombre": "Vlado Mirosevic",
+                    "partido": "Partido Liberal de Chile",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=991",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs991",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=23"
+                },
+                {
+                    "nombre": "Luis Rocafull",
+                    "partido": "Partido Socialista",
+                    "url_diputado": "https://www.camara.cl/camara/diputado_detalle.aspx?prmid=1000",
+                    "url_img": "https://www.camara.cl/img.aspx?prmid=chs1000",
+                    "url_partido": "https://www.camara.cl/camara/diputados.aspx?prmTAB=partidos&prmPARAM=7"
+                }
+            ],
+            "distrito": "1",
+            "url_region": "https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM=15"
+        }
+    ]
+}
