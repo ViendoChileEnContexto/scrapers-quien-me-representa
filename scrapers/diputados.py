@@ -1,29 +1,79 @@
+import json
+import os
+import re
+
 import requests
 from bs4 import BeautifulSoup as bs
 
 
-for i in range(1, 16):
-    req = requests.post(f"https://www.camara.cl/camara/diputados.aspx?prmTAB=distritos&prmPARAM={i}")
-    soup = bs(req.text, "html.parser")
-    detalle = soup.find("div", {"id": "ctl00_mainPlaceHolder_pnlDetalleDistritos"})
+BASE_URL = "https://www.camara.cl"
+DATA = {}
+OUTPUT_PATH = os.path.join("..", "data", "diputados.json")
 
-    contenidos = list(detalle.children)
-    while len(contenidos) > 0:
-        hijo = contenidos.pop(0)
-        if hijo.name == "h2":
-            print(f"La región es: {hijo.get_text().strip()}")
-        if hijo.name == "h3":
-            distrito = hijo.get_text().strip().split('\n')[-1].strip()
-            print(f"El distrito es: {distrito}")
-        if hijo.name == "h4":
-            comunas = hijo.get_text().strip().split(
-                '\n')[-1].strip().split(",")
-            print(f"Las comunas son: {comunas}")
-        if hijo.name == "ul":
-            for diputado in hijo.find_all("li"):
-                nombre = " ".join(diputado.h4.find("a").get_text().replace(
-                    "\r", "").replace("\n", "").split()).title()
-                partido = " ".join(diputado.p.find(
-                    "a").get_text().split("\n")).strip()
-                print(f"{nombre} ({partido})")
+
+for region in range(1, 16):
+    # Send request and extract container element
+    params = {"prmTAB": "distritos", "prmPARAM": region}
+    req = requests.post(f"{BASE_URL}/camara/diputados.aspx", params=params)
+    soup = bs(req.text, "html5lib")
+    container = soup.find(id="ctl00_mainPlaceHolder_pnlDetalleDistritos")
+
+    # Iterate elements inside container and extract structure and content
+    elements = list(container.children)
+    current_region = None
+    while elements:
+        # Retrieve next element to process
+        element = elements.pop(0)
+        # Different information is contained in different tags
+        if element.name == "h2":
+            # If element is <h2>, contains the region name
+            current_region = element.get_text(strip=True)
+            DATA[current_region] = []  # Each region contains its districts
+            print(f"Región: {current_region}")
+        elif element.name == "h3":
+            # If element is <h3>, contains the district number
+            district = element.get_text(strip=True)
+            district = district.split("\n")[-1].strip()
+            DATA[current_region].append({})
+            # Use -1 to access most recent district
+            DATA[current_region][-1]["distrito"] = district
+            DATA[current_region][-1]["url_region"] = req.url
+            print(f"Distrito: {district}")
+        elif element.name == "h4":
+            # If element is <h4>, contains the district communes
+            communes = element.get_text(strip=True)
+            communes = communes.split("\n")[-1].strip()
+            communes = re.split(r"\s*,\s*", communes)
+            # Use -1 to access most recent district
+            DATA[current_region][-1]["comunas"] = communes
+            print(f"Comunas: {', '.join(communes)}")
+        elif element.name == "ul":
+            # If element is <ul>, contains the list of deputies
+            deputies = []
+            print("Diputados:")
+            for deputy in element.find_all("li"):
+                name = deputy.h4.get_text(strip=True)
+                name = name.split("\n")[-1].strip().title()
+                party = deputy.p.get_text(strip=True)
+                deputy_href = deputy.h4.a["href"].partition("#")[0]
+                party_href = deputy.p.a["href"].partition("#")[0]
+                deputy_data = {
+                    "nombre": name,
+                    "partido": party,
+                    "url_img": BASE_URL + deputy.img["src"],
+                    "url_diputado": BASE_URL + "/camara/" + deputy_href,
+                    "url_partido": BASE_URL + "/camara/" + party_href,
+                }
+                deputies.append(deputy_data)
+                print(f"* {name} ({party})")
+            # Use -1 to access most recent district
+            DATA[current_region][-1]["diputados"] = deputies
+
     print()
+
+# Store data in its own JSON file
+with open(OUTPUT_PATH, "w", encoding="utf-8") as deputies_file:
+    json.dump(DATA, deputies_file,
+              sort_keys=True, indent=4,
+              separators=(',', ': '), ensure_ascii=False,
+              )
