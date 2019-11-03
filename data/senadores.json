@@ -1,0 +1,333 @@
+{
+    "Región Metropolitana de Santiago": {
+        "capital": "Capital: Santiago",
+        "circunscripcion": "7ª Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Guido Girardi Lavín",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=909",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=909"
+            },
+            {
+                "nombre": "Senador Andrés Allamand Zavala",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=905",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=905"
+            },
+            {
+                "nombre": "Senador Carlos Montes Cisternas",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1119",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1119"
+            },
+            {
+                "nombre": "Senador Manuel José Ossandón Irarrázabal",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1120",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1120"
+            }
+        ]
+    },
+    "Región de Antofagasta": {
+        "capital": "Capital: Antofagasta",
+        "circunscripcion": "3º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Pedro Araya Guerrero",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1110",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1110"
+            },
+            {
+                "nombre": "Senador Alejandro Guillier Álvarez",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1111",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1111"
+            }
+        ]
+    },
+    "Región de Arica y Parinacota": {
+        "capital": "Capital: Arica",
+        "circunscripcion": "1º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador José Miguel Durana Semir",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1210",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1210"
+            },
+            {
+                "nombre": "Senador José Miguel Insulza Salinas",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1211",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1211"
+            }
+        ]
+    },
+    "Región de Atacama": {
+        "capital": "Capital: Copiapó",
+        "circunscripcion": "4º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Rafael Prohens Espinosa",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1214",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1214"
+            },
+            {
+                "nombre": "Senadora Yasna Provoste Campillay",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1215",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1215"
+            }
+        ]
+    },
+    "Región de Aysén del General Carlos Ibáñez del Campo": {
+        "capital": "Capital: Coyhaique",
+        "circunscripcion": "14º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senadora Ximena Órdenes Neira",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1224",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1224"
+            },
+            {
+                "nombre": "Senador David Sandoval Plaza",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1225",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1225"
+            }
+        ]
+    },
+    "Región de Coquimbo": {
+        "capital": "Capital: La Serena",
+        "circunscripcion": "5º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Adriana Muñoz D'albora",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1118",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1118"
+            },
+            {
+                "nombre": "Senador Jorge Pizarro Soto",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=163",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=163"
+            }
+        ]
+    },
+    "Región de Los Lagos": {
+        "capital": "Capital: Puerto Montt",
+        "circunscripcion": "13º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Iván Moreira Barros",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1117",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1117"
+            },
+            {
+                "nombre": "Senador Rabindranath Quinteros Lara",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1116",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1116"
+            }
+        ]
+    },
+    "Región de Los Ríos": {
+        "capital": "Capital: Valdivia",
+        "circunscripcion": "12º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Alfonso De Urresti Longton",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1115",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1115"
+            },
+            {
+                "nombre": "Senadora Ena Von Baer Jahn",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1067",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1067"
+            }
+        ]
+    },
+    "Región de Magallanes y de la Antártica Chilena": {
+        "capital": "Capital: Punta Arenas",
+        "circunscripcion": "15º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Carlos Bianchi Chelech",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=907",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=907"
+            },
+            {
+                "nombre": "Senadora Carolina Goic Boroevic",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1113",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1113"
+            }
+        ]
+    },
+    "Región de Tarapacá": {
+        "capital": "Capital: Iquique",
+        "circunscripcion": "2º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senadora Luz Eliana Ebensperger Orrego",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1212",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1212"
+            },
+            {
+                "nombre": "Senador Jorge Soria Quiroga",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1213",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1213"
+            }
+        ]
+    },
+    "Región de Valparaíso": {
+        "capital": "Capital: Valparaíso",
+        "circunscripcion": "6º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senadora Isabel Allende Bussi",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=985",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=985"
+            },
+            {
+                "nombre": "Senador Francisco Chahuán Chahuán",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=986",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=986"
+            },
+            {
+                "nombre": "Senador Ricardo Lagos Weber",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=987",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=987"
+            },
+            {
+                "nombre": "Senador Juan Ignacio Latorre Riveros",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1216",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1216"
+            },
+            {
+                "nombre": "Senador Kenneth Pugh Olavarría",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1217",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1217"
+            }
+        ]
+    },
+    "Región de la Araucanía": {
+        "capital": "Capital: Temuco",
+        "circunscripcion": "11º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senadora Carmen Gloria Aravena Acuña",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1221",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1221"
+            },
+            {
+                "nombre": "Senador Jaime Quintana Leal",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1008",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1008"
+            },
+            {
+                "nombre": "Senador Francisco Huenchumilla Jaramillo",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1222",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1222"
+            },
+            {
+                "nombre": "Senador Felipe Kast Sommerhoff",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1223",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1223"
+            },
+            {
+                "nombre": "Senador José García Ruminot",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=690",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=690"
+            }
+        ]
+    },
+    "Región de Ñuble": {
+        "capital": "Capital: Ñuble",
+        "circunscripcion": "16º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Alejandro Navarro Brain",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=915",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=915"
+            },
+            {
+                "nombre": "Senadora Jacqueline Van Rysselberghe Herrera",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1112",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1112"
+            },
+            {
+                "nombre": "Senador Victor Pérez Varela",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=916",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=916"
+            },
+            {
+                "nombre": "Senador Felipe Harboe Bascuñán",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1114",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1114"
+            }
+        ]
+    },
+    "Región del Biobío": {
+        "capital": "Capital: Concepción",
+        "circunscripcion": "10º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Alejandro Navarro Brain",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=915",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=915"
+            },
+            {
+                "nombre": "Senadora Jacqueline Van Rysselberghe Herrera",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1112",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1112"
+            },
+            {
+                "nombre": "Senador Victor Pérez Varela",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=916",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=916"
+            },
+            {
+                "nombre": "Senador Felipe Harboe Bascuñán",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1114",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1114"
+            }
+        ]
+    },
+    "Región del Libertador General Bernardo O'Higgins": {
+        "capital": "Capital: Rancagua",
+        "circunscripcion": "8º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Alejandro García-Huidobro Sanfuentes",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1066",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1066"
+            },
+            {
+                "nombre": "Senador Juan Pablo Letelier Morel",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=912",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=912"
+            }
+        ]
+    },
+    "Región del Maule": {
+        "capital": "Capital: Talca",
+        "circunscripcion": "9º Circunscripción",
+        "senadores": [
+            {
+                "nombre": "Senador Juan Antonio Coloma Correa",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=687",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=687"
+            },
+            {
+                "nombre": "Senador Juan Enrique Castro Prieto",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1218",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1218"
+            },
+            {
+                "nombre": "Senador Álvaro Elizalde Soto",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1219",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1219"
+            },
+            {
+                "nombre": "Senador Rodrigo Galilea Vial",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1220",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1220"
+            },
+            {
+                "nombre": "Senadora Ximena Rincón González",
+                "url_img": "https://www.senado.cl/appsenado/index.php?mo=comisiones&ac=getImage&fid=1009",
+                "url_senador": "https://www.senado.cl/appsenado/index.php?mo=senadores&ac=fichasenador&id=1009"
+            }
+        ]
+    }
+}
